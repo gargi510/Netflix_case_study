@@ -1,6 +1,3 @@
-Here's a concise version of your README for the Netflix Titles EDA case study:
-
----
 
 # Netflix Titles Case Study
 
@@ -31,6 +28,3 @@ This EDA provides insights into Netflix content, helping optimize content creati
 **GitHub:** [Gargi510](https://www.github.com/gargi510)  
 **LinkedIn:** [Gargi Mishra](https://www.linkedin.com/in/gargi510)
 
----
-
-Let me know if you need any more tweaks!
